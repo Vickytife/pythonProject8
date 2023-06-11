@@ -1,0 +1,2 @@
+say_hello = lamda: print('Hello Reader')
+say_hello()
